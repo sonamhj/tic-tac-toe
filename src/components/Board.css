@@ -1,0 +1,7 @@
+.Board {
+	height:330px;
+	width:330px;
+	background-color:white;
+	margin: 0 auto;
+	padding:10px;
+}
